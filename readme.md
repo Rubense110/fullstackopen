@@ -1,0 +1,1 @@
+This repository contains projects and practical exercises completed during the Fullstack Open course. Fullstack Open is an online course that covers full-stack web development, providing a comprehensive foundation in technologies such as JavaScript, React, Node.js, Express, and MongoDB, among others and its offered by the University of Helsinki.
